@@ -4,9 +4,12 @@ Welcome to the official, open-source prompt engineering matrix curated by the te
 
 This repository archives our internal testing ledger—containing **120 highly specialized, single-turn visual presets** tested extensively across advanced neural generation models including `Nano Banana 2`, `Grok Imagine`, `GPT Image 1.5`, and `GPT Image 2`. These structural frameworks are designed strictly to bridge the semantic gap between UI/UX creators, digital marketers, and front-end engineers.
 
+---
+
 ## 📊 Open-Source Prompt Engineering Ledger (Full 120 Matrix)
 
 | ID | Tag | Model | Mode | Preset Name | Minimalist Input | Prompt (Engineering Formula) |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Influencer | Nano Banana 2 | Text-to-Image | Pool Glow | Create a captivating pool portrait | create a medium-shot portrait of a young woman looking back at the camera with a captivating gaze. Her body below the chest is submerged in a swimming pool] filled with clear turquoise water. <br> She has straight dark chocolate brown hair styled in a loose messy bun, with a few strands falling along her cheeks.  <br> Her skin has a dewy “glass skin” texture. She is wearing a light red halter one-piece swimsuit tied behind her neck. <br> The scene is set in a luxurious rooftop or outdoor terrace during golden hour. In the background, there is a gray gazebo with decorative trims, soft outdoor string lights, and a distant cityscape under a dramatic cloudy sunset. <br> Lighting is soft natural twilight, blending cool tones (water and architecture) with warm tones (sunset and skin highlights), creating a moody and editorial atmosphere. |
 | 2 | Influencer | Nano Banana 2 | Image-to-Image | Expressive Photobooth Grid | Make me a photobooth grid | A 4x4 photobooth contact sheet of the reference subject, preserving identity and hairstyle across all panels. Clean neutral backdrop, direct front flash, 50mm lens, tight head-and-shoulders framing.  <br> Mixed expressive poses: smile, laugh, pout, bored, angry, playful, flirty, surprised, tongue out. |
 | 3 | Influencer | Nano Banana 2 | Image-to-Image | Professional Team Photo | Generate me a professional corporate headshot | Use image 1 as the subject reference. Generate a professional corporate headshot suitable for company website team page. Preserve identity, facial proportions, and natural expression. |
@@ -47,6 +50,7 @@ This repository archives our internal testing ledger—containing **120 highly s
 | 38 | Anime | grok imagine | Image-to-Image | Live Cosplay Look | Convert cell-shading to realistic model | Re-render the input anime illustration asset into a photorealistic real-world human cosplay portrait, capturing authentic fabric weight and textures. |
 | 39 | Anime | grok imagine | Image-to-Image | Anime Comic Generator | Multi-panel layout generation | Process the character references into an official multi-panel comic book manga page sequence layout featuring action panel grids and dialog margins. |
 | 40 | E-Commerce | gpt image 1.5 | Image-to-Image | Hero Shot Placement | Place item on premium studio platform | Take the isolated e-commerce product asset and seamlessly arrange it onto a premium marble pedestal block inside a professional studio photography environment. |
+
 | ID | Tag | Model | Mode | Preset Name | Minimalist Input | Prompt (Engineering Formula) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 41 | E-Commerce | gpt image 1.5 | Image-to-Image | Modern Minimalist Studio | Product scene clean studio look | Elevate the product image inside a modern Scandinavian minimalist studio backdrop. Soft diffuse shadows, off-white textures, high precision depth alignment. |
